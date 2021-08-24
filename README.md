@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Noah 
 #### I am a dev from Germany
-![](https://ibb.co/NtwVd1W)
-
 I'm Noah from Germany, and i do Development stuff 😂
 
 Skills: JAVA / JS / HTML / CSS
