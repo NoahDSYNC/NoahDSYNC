@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Noah 
 #### I am a dev from Germany
-!(https://www.directupload.net/file/d/6285/6nby5jgc_png.htm)
+![](https://www.directupload.net/file/d/6285/6nby5jgc_png.htm)
 
 I'm Noah from Germany, and i do Development stuff 😂
 
