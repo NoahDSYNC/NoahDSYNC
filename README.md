@@ -2,10 +2,7 @@
 #### I am a dev from Germany
 I'm Noah from Germany, and i do Development stuff 😂
 
-Skills: JAVA / JS / HTML / CSS
-
 - 🔭 I’m currently working on some projects 
-- 📫 How to reach me: Discord Noah.DSYNC#5882 
 - ⚡ Fun fact: I'm trash at LoL😂 
 
 
